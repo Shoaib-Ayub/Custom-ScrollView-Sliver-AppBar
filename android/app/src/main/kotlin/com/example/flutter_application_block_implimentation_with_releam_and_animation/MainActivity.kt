@@ -1,0 +1,5 @@
+package com.example.flutter_application_block_implimentation_with_releam_and_animation
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
